@@ -1,2 +1,3 @@
 # python-learning-
-This is going to my first repository for python. As Im going to learn python for the very first time.
+This is my first repository for Python. I'm going to learn Python for the very first time.
+I'll complete this learning at any cost; nothing can stop me except Allah. INSHALLAH.
